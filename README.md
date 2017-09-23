@@ -1,2 +1,3 @@
 # hello-world
 This is GitHub Hello World
+Here's a bit about myself...
